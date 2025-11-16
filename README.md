@@ -2,7 +2,16 @@
 
 A curated collection of resources, implementations, research, tools and community links for ***EIP-7503***!
 
+## Docs
+
+- [eip7503.org](https://eip7503.org) - Official website of the EIP
+- [Specification](https://eips.ethereum.org/EIPS/eip-7503) - Original EIP document
+
 ## Projects
+
+- [WORM](https://worm.cx) - Transform irreversible ETH burns into an economically meaningful asset!
+
+## Tokens
 
 - [BETH](https://github.com/worm-privacy/proof-of-burn) - WORM project's private ETH burn receipt.
 - [UltraAnon](https://github.com/jimjimvalkema/ultra-anon) - A privacy token inspired by eip7503 that has maximum plausible deniability and a maximum anonymity set by joining public and private state.
