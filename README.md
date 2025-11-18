@@ -25,3 +25,7 @@ A curated collection of resources, implementations, research, tools and communit
 ## L2 implementations
 
 - [experiment: mint-burn precompile](https://github.com/ethereum-optimism/op-geth/pull/687) - Mint-burn precompile for OP stack
+
+## Protocols
+
+- [Union's Private Bridging](https://pdfs.cdn.union.build/union-private-bridging.pdf) - Bridge privately through burning your ERC20 token
